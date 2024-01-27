@@ -1,6 +1,6 @@
 import json
 import telebot
-from quest_bot1.info1 import start, again, locations
+from info1 import start, again, locations
 from telebot import types
 
 TOKEN = input("Введите токен:")
